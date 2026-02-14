@@ -1,0 +1,35 @@
+<div class="product">
+    <h3>Iris</h3>
+    <img src="images/iris.jpg" alt="Iris Bottle">
+    <p>Soft. Elegant. Timeless.</p>
+</div>
+
+<div class="product">
+    <h3>Faux</h3>
+    <img src="images/faux.jpg" alt="Faux Bottle">
+    <p>Dark. Magnetic. Unforgettable.</p>
+</div>
+
+<div class="product">
+    <h3>Myth'e</h3>
+    <img src="images/myth.jpg" alt="Myth'e Bottle">
+    <p>Mysterious. Deep. Legendary Signature.</p>
+</div>
+
+<div class="product">
+    <h3>Crav'e</h3>
+    <img src="images/crave.jpg" alt="Crav'e Bottle">
+    <p>Modern Strength with Classic Edge.</p>
+</div>
+
+<div class="product">
+    <h3>Marzaan</h3>
+    <img src="images/marzaan.jpg" alt="Marzaan Bottle">
+    <p>Royal Arabic Luxury.</p>
+</div>
+
+<div class="product">
+    <h3>Extas'e</h3>
+    <img src="images/extase.jpg" alt="Extas'e Bottle">
+    <p>Bold Feminine Passion.</p>
+</div>
